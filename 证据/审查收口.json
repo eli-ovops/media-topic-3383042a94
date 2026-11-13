@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-06",
+  "shooting_target_date": "2026-10-07",
+  "review_done": true,
+  "scope": "文件/原仓库/方案审查；未实际试拍与发布",
+  "files_created": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/拍前审查与缺口.md",
+      "bytes": 18778
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-LICENSE",
+      "bytes": 18657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-LICENSE-CODE",
+      "bytes": 1069
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-README.md",
+      "bytes": 46969
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库版本与来源.json",
+      "bytes": 1359
+    }
+  ],
+  "files_modified": [
+    "/Volumes/EXTERNAL/自媒体/README.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/README.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/01_定位建议与关键阻碍.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/02_8个候选与3个核心.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/04_10个候选选题.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/01_把模糊需求改成可检查要求.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/02_两张表合并与异常检查.md",
+    "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/03_零散信息提取待办.md"
+  ],
+  "new_bytes_excluding_receipt": 86832,
+  "local_links_missing": [],
+  "questions_6_to_56_complete": true,
+  "source_commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+  "source_files_read": [
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "reference_full_video_read": false,
+  "whole_book_and_primary_studies_reviewed": false,
+  "device_answers": "UNKNOWN",
+  "trial_shooting": "未开始",
+  "script_finalized": false,
+  "publishing": false,
+  "temporary_files": "none; source evidence retained",
+  "no_agent_delegation": true,
+  "actual_model_effort": "UNKNOWN"
+}

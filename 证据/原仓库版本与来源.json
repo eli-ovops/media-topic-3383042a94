@@ -1,0 +1,29 @@
+{
+  "client_date": "2026-10-06",
+  "source_repo": "eternity4719/HowToLiveBetter",
+  "commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+  "records": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-README.md",
+      "source": "https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/README.md",
+      "commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+      "blob_sha": "584e586fff25a87cec0857ac6e70c4e7f1ca5fc7",
+      "bytes": 46969
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-LICENSE",
+      "source": "https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/LICENSE",
+      "commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+      "blob_sha": "da6ab6cc8f333d7e89a99812866df8f24374d47c",
+      "bytes": 18657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/拍前审查-20261007/证据/原仓库-LICENSE-CODE",
+      "source": "https://github.com/eternity4719/HowToLiveBetter/blob/20718eeab32cb8506971fb71b03e66a91077be07/LICENSE-CODE",
+      "commit": "20718eeab32cb8506971fb71b03e66a91077be07",
+      "blob_sha": "949d610ab809da6a016a07a4cb97ce3dce59e32a",
+      "bytes": 1069
+    }
+  ],
+  "review_scope": "README和授权文件；未审全书、原论文或平台发布规则"
+}
